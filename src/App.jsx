@@ -124,7 +124,7 @@ class App extends React.Component {
         {tabChoice}
       </div>
     );
-  }
+  } 
 }
 
 export default App;
